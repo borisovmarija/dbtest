@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"stencil-dev._events"},{"v":2,"key":{"instant":1},"name":"instant_1","ns":"stencil-dev._events","expireAfterSeconds":2592000}]}
